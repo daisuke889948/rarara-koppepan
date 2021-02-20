@@ -22,6 +22,9 @@ main{
   width: 1000px;
   margin: 0 auto;
 }
+main p{
+  font-family: 'Kosugi', sans-serif;
+}
 #introduction{
   text-align: center;
   margin-top: 60px;
